@@ -1,0 +1,6 @@
+#include "Generated.xcconfig"
+
+FLUTTER_TARGET=lib/main_wireviewer.dart
+ASSET_PREFIX=wireviewer
+BUNDLE_NAME=The Wire Character Viewer
+BUNDLE_DISPLAY_NAME=The Wire Character Viewer

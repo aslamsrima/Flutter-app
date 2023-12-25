@@ -1,0 +1,89 @@
+{
+    "Abstract": "",
+    "AbstractSource": "Wikipedia",
+    "AbstractText": "",
+    "AbstractURL": "https://en.wikipedia.org/wiki/The_Simpsons_characters",
+    "Answer": "",
+    "AnswerType": "",
+    "Definition": "",
+    "DefinitionSource": "",
+    "DefinitionURL": "",
+    "Entity": "",
+    "Heading": "The Simpsons characters",
+    "Image": "",
+    "ImageHeight": 0,
+    "ImageIsLogo": 0,
+    "ImageWidth": 0,
+    "Infobox": "",
+    "Redirect": "",
+    "RelatedTopics": [
+        {
+            "FirstURL": "https://duckduckgo.com/Apu_Nahasapeemapetilon",
+            "Icon": {
+                "Height": "",
+                "URL": "/i/99b04638.png",
+                "Width": ""
+            },
+            "Result": "<a href=\"https://duckduckgo.com/Apu_Nahasapeemapetilon\">Apu Nahasapeemapetilon</a><br>Apu Nahasapeemapetilon is a recurring character in the American animated television series The Simpsons. He is an Indian immigrant proprietor who runs the Kwik-E-Mart, a popular convenience store in Springfield, and is known for his catchphrase, \"Thank you, come again\".",
+            "Text": "Apu Nahasapeemapetilon - Apu Nahasapeemapetilon is a recurring character in the American animated television series The Simpsons. He is an Indian immigrant proprietor who runs the Kwik-E-Mart, a popular convenience store in Springfield, and is known for his catchphrase, \"Thank you, come again\"."
+        }
+    ],
+    "Results": [],
+    "Type": "C",
+    "meta": {
+        "attribution": null,
+        "blockgroup": null,
+        "created_date": null,
+        "description": "Wikipedia",
+        "designer": null,
+        "dev_date": null,
+        "dev_milestone": "live",
+        "developer": [
+            {
+                "name": "DDG Team",
+                "type": "ddg",
+                "url": "http://www.duckduckhack.com"
+            }
+        ],
+        "example_query": "nikola tesla",
+        "id": "wikipedia_fathead",
+        "is_stackexchange": null,
+        "js_callback_name": "wikipedia",
+        "live_date": null,
+        "maintainer": {
+            "github": "duckduckgo"
+        },
+        "name": "Wikipedia",
+        "perl_module": "DDG::Fathead::Wikipedia",
+        "producer": null,
+        "production_state": "online",
+        "repo": "fathead",
+        "signal_from": "wikipedia_fathead",
+        "src_domain": "en.wikipedia.org",
+        "src_id": 1,
+        "src_name": "Wikipedia",
+        "src_options": {
+            "directory": "",
+            "is_fanon": 0,
+            "is_mediawiki": 1,
+            "is_wikipedia": 1,
+            "language": "en",
+            "min_abstract_length": "20",
+            "skip_abstract": 0,
+            "skip_abstract_paren": 0,
+            "skip_end": "0",
+            "skip_icon": 0,
+            "skip_image_name": 0,
+            "skip_qr": "",
+            "source_skip": "",
+            "src_info": ""
+        },
+        "src_url": null,
+        "status": "live",
+        "tab": "About",
+        "topic": [
+            "productivity"
+        ],
+        "unsafe": 0
+    }
+}

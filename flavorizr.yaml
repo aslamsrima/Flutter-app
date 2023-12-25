@@ -1,0 +1,24 @@
+app:
+  android:
+    flavorDimensions: "flavor-type"
+
+flavors:
+  simpsonsviewer:
+    app:
+      name: "Simpsons Character Viewer"
+
+    android:
+      applicationId: "com.sample.simpsonsviewer"
+    ios:
+      bundleId: "com.sample.simpsonsviewer"
+
+  wireviewer:
+    app:
+      name: "The Wire Character Viewer"
+
+    android:
+      applicationId: "com.sample.wireviewer"
+    ios:
+      bundleId: "com.sample.wireviewer"
+
+ide: idea
